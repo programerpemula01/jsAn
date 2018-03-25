@@ -1,0 +1,5 @@
+#detail {display: none}
+
+/*latihan 5.*/
+.btn-save, .btn-confirm, .form-control {display: none}
+.circle { transition: all 1s ease }
